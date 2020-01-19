@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
-# filename：for.py
+# filename：while.py
 # author: shuqing
 
 i = 0
