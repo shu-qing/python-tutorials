@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
-# filename：001.py
+# filename：002.py
 # author: shuqing
 
 # 题目：企业发放的奖金根据利润提成。
