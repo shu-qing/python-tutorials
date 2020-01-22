@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
-# filename：string.py
+# filename：list.py
 # author: shuqing
 
 list1 = ['physics', 'chemistry', 1997, 2000]
