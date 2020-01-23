@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
-# filename：011.py
+# filename：012.py
 # author: shuqing
 
 # 题目：判断101-200之间有多少个素数，并输出所有素数。
